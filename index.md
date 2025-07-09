@@ -104,7 +104,7 @@ If the TA attack fails, the DC defender may draw 2 additional DC cards and place
 
 Face Card Damage Progression:
 
-DC card damage must follow this sequence:
+The TA attack progression has 5 phases, Observation, Weaponization, Assessment, Site Evaluation and PWN (OWASP). Attacks damage the DC assets during the Observation, Assesssment and PWN phases. DC card damage must follow this sequence:
 
 1. **Observation** – Card is turned face up.
 2. **Assessment** – Card is rotated 90 degrees.

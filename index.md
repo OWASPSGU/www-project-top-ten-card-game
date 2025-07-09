@@ -106,9 +106,9 @@ Face Card Damage Progression:
 
 DC card damage must follow this sequence:
 
-1. **Observation** – Card is turned face up.
-2. **Assessment** – Card is rotated 90 degrees.
-3. **PWN** – Card is decommissioned and removed from play.
+1. **Observation** – DC face card is turned face up.
+2. **Assessment** – DC face card is rotated 90 degrees.
+3. **PWN** – DC face card is decommissioned and removed from play.
 
 If the TA attack fails, the TA player must select one of their 3 TA face cards and record damage following the face-up, rotation and decommission sequence.
 
